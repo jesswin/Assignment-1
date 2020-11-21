@@ -6,5 +6,11 @@ I have made a Quiz on *__Top Billionaires of the World,__* Have a Look at my Rep
 
 Hope You Will like the Quiz. :nerd_face:
 
+Technologies used:
+
+* Node.js
+* CHALK
+
+
 https://repl.it/@Jesswin/Assignment-1?embed=1&output=1#index.js 
 
